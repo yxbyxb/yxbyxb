@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yxbyxb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning odoo
+- 👀 I’m interested in animation
+- 🌱 I’m currently learning sprintboot springcloud
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1073086587@qq.com
 
